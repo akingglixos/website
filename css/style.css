@@ -1,5 +1,6 @@
 body{
     font-family: Arial, Verdana;
+    word-break: break-word;
 }
 article, .title, .subtitle, .photo{
     max-width: 700px;
