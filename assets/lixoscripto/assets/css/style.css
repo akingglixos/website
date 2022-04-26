@@ -28,3 +28,10 @@ body{
 #encrypt-button, #decrypt-button{
     min-width: 80px;
 }
+
+@media(max-width: 430px){
+    #text-input, #text-output{
+        width: 250px;
+        height: 150px;
+    }
+}
