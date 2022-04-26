@@ -13,7 +13,6 @@ function decryptText(arrayChars){
     let stringDecrypted = '';
     for(i = 0; i < arrayChars.length; i++){
         arrayDecrypted.push(getKeyByValue(CHARS_MAP, arrayChars[i]));
-        console.log(arrayDecrypted);
     }
     stringDecrypted = arrayDecrypted.join('');
     return stringDecrypted;
