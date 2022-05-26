@@ -92,6 +92,10 @@ a{
 .post-text{
     text-indent: 10px;
 }
+#bob{
+    height: 100px;
+}
+
 @media(max-width: 580px){
     .icon{
         width: 24px;
