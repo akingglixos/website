@@ -24,5 +24,10 @@ const links = [
     'https://www.youtube.com/watch?v=KWtwIf-TSlo',
     'https://amongusdrip.org/',
     'https://www.google.com/search?q=do+a+barrel+roll&oq=do+a+barrel+roll',
-    './him/%253F.html'
+    './him/%253F.html',
+    'http://www.pudim.com.br/',
+    'https://i1.sndcdn.com/artworks-ksPyeKdYzla38ksz-L0GOdA-t240x240.jpg',
+    'http://papertoilet.com/',
+    'https://www.myinstants.com/pt/instant/heheheha-85810/',
+    'https://img.ibxk.com.br/2012/6/gifs/dancingbaby2.gif'
 ];
